@@ -17,12 +17,10 @@
 
 ## ✨ Features
 
-- Total monthly/annual spend calculations and category percentage breakdown bar charts
-- Monthly expense projections and top 3 highest-cost subscriptions list
-- Visual timeline tracking upcoming renewal dates
-- View, filter, and search active, canceled, or free trial subscriptions
-- Highlighted section for subscriptions renewing within 10 days or less
-- Instant database updates when adding, editing, or deleting subscriptions
-- Automatic anonymous login with optional Google Sign-In account linking
-- Update display name/email, sign out, or delete account
-- Saved search history, onboarding state, and session preferences
+- Total monthly/annual spend calculation and category percentage breakdown chart
+- Forecasted monthly expenses, payment timeline, and top 3 highest costs
+- Full real-time CRUD with filtering by status and category
+- Automatic section for subscriptions renewing within 10 days
+- Anonymous login on launch with optional Google Sign-In linking
+- Profile management, sign-out, and account deletion
+- Saved search history, onboarding flags, and session state
