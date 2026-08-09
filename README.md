@@ -70,37 +70,40 @@ Displays the initial screen on app launch, where the user can sign in or enter t
 ### Dashboard Screen
 
 <p align="center">
-  <!-- <img src="README_Images/WelcomeView.png" width="250"> -->
+  <img src="README_Images/Dashboard01.png" width="250">
+  <img src="README_Images/Dashboard02.png" width="250">
 </p>
 Main dashboard displaying monthly and annual spending overviews, a category breakdown chart with percentage shares, and upcoming subscription renewals.
 
 ### Insights Screen
 
 <p align="center">
-  <!-- <img src="README_Images/WelcomeView.png" width="250"> -->
+  <img src="README_Images/Insights01.png" width="250">
+  <img src="README_Images/Insights02.png" width="250">
 </p>
 Monthly chart projection displaying total spending, upcoming charge dates, and the top 3 most expensive subscriptions.
 
 ### Subscriptions Screen
 
 <p align="center">
-  <!-- <img src="README_Images/WelcomeView.png" width="250"> -->
+  <img src="README_Images/Subscriptions01.png" width="250">
+  <img src="README_Images/Subscriptions02.png" width="250">
 </p>
 Subscription list categorized by status (active, canceled, or free) with an upcoming expiration section and category filtering.
 
 ### Settings Screen
 
 <p align="center">
-  <!-- <img src="README_Images/WelcomeView.png" width="250"> -->
+  <img src="README_Images/Settings01.png" width="250">
+  <img src="README_Images/Settings02.png" width="250">
 </p>
 Settings view displaying account details (username, email) with options to edit profile, log in, sign up, log out, or delete the account based on authentication status.
 
 ### Add & Edit Subscription Screen
 
 <p align="center">
-  <!-- <img src="README_Images/WelcomeView.png" width="250"> -->
-  <!-- <img src="README_Images/WelcomeView.png" width="250"> -->
-  <!-- <img src="README_Images/WelcomeView.png" width="250"> -->
+  <img src="README_Images/AddSubscription.png" width="250">
+  <img src="README_Images/EditSubscription.png" width="250">
 </p>
 Add and edit subscription views to create or update subscription details including name, cost, category, billing cycle, and renewal date.
 
