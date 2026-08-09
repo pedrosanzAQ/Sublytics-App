@@ -95,6 +95,7 @@ Subscription list categorized by status (active, canceled, or free) with an upco
 
 <p align="center">
   <img src="README_Images/Settings01.png" width="250">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="README_Images/Settings02.png" width="250">
 </p>
 Settings view displaying account details (username, email) with options to edit profile, log in, sign up, log out, or delete the account based on authentication status.
