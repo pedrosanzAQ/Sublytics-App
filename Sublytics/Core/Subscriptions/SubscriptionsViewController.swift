@@ -270,7 +270,12 @@ class SubscriptionsViewController: HeaderViewController {
         }
         
         let filteredSubs = viewmodel.allSubsctiptions
+        let isEmpty = filteredSubs.isEmpty
+        
         emptyPotentialLabel.isHidden = !filteredSubs.isEmpty
+        subscriptionsStackView.isHidden = isEmpty
+        
+        guard !isEmpty else { return }
         
         filteredSubs.forEach { sub in
             let cell = SubscriptionRowCellUIView()

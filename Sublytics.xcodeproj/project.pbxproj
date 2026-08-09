@@ -47,6 +47,11 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		BE32046F3029312400BA4AD1 /* README_Images */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = README_Images;
+			sourceTree = "<group>";
+		};
 		BECFB1372F58D65A005862A3 /* Sublytics */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
@@ -99,6 +104,7 @@
 		BECFB12C2F58D65A005862A3 = {
 			isa = PBXGroup;
 			children = (
+				BE32046F3029312400BA4AD1 /* README_Images */,
 				BECFB1372F58D65A005862A3 /* Sublytics */,
 				BECFB14E2F58D65C005862A3 /* SublyticsTests */,
 				BECFB1582F58D65C005862A3 /* SublyticsUITests */,
@@ -140,6 +146,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				BE32046F3029312400BA4AD1 /* README_Images */,
 				BECFB1372F58D65A005862A3 /* Sublytics */,
 			);
 			name = Sublytics;
