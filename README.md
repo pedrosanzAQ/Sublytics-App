@@ -108,13 +108,15 @@ Settings view displaying account details (username, email) with options to edit 
 <p align="center">
   <img src="README_Images/AddSubscription.png" width="250">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="README_Images/EditSubscription.png" width="250">
+  <img src="README_Images/Editsubscription.png" width="250">
 </p>
 Add and edit subscription views to create or update subscription details including name, cost, category, billing cycle, and renewal date.
 
 ### Search Subscription Screen
 
 <p align="center">
-  <!-- <img src="README_Images/WelcomeView.png" width="250"> -->
+  <img src="README_Images/SearchSubscription01.png" width="250">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="README_Images/SearchSubscription02.png" width="250">
 </p>
 Search view allowing users to quickly find subscriptions by name or category, with support for saving recent search history.
