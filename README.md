@@ -43,4 +43,14 @@
 
 ## 🚀 Getting Started
 
+Follow these steps to clone and run the application in your local development environment.
+
+### Prerequisites
+
+* **macOS** (latest version recommended)
+* **Xcode** 15.0 or higher
+* **iOS** 17.0+ deployment target
+* A [Firebase Console](https://console.firebase.google.com/) account
+
+
 ## 📱 Screenshots
