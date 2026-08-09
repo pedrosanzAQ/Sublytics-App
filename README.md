@@ -52,5 +52,11 @@ Follow these steps to clone and run the application in your local development en
 * **iOS** 17.0+ deployment target
 * A [Firebase Console](https://console.firebase.google.com/) account
 
+To link your own Firebase instance:
+
+- Go to the Firebase Console and create a project.
+- Register an iOS app using the Bundle Identifier of this project.
+- Download the GoogleService-Info.plist file.
+- Drag and drop the file directly into the root folder inside Xcode (ensure Copy items if needed is checked and it is target-assigned to the main app target).
 
 ## 📱 Screenshots
