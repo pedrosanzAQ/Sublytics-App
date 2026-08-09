@@ -103,6 +103,7 @@ Settings view displaying account details (username, email) with options to edit 
 
 <p align="center">
   <img src="README_Images/AddSubscription.png" width="250">
+  
   <img src="README_Images/EditSubscription.png" width="250">
 </p>
 Add and edit subscription views to create or update subscription details including name, cost, category, billing cycle, and renewal date.
