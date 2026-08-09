@@ -24,3 +24,13 @@
 - Anonymous login on launch with optional Google Sign-In linking
 - Profile management, sign-out, and account deletion
 - Saved search history, onboarding flags, and session state
+
+## 🧠 Architecture
+
+## 🧠 Architecture
+
+- **MVVM:** Clear decoupling of UIKit views, state, and business logic
+- **Protocol-Driven:** Swappable Mock and Real service implementations
+- **Modern Concurrency:** Swift `async/await` for async workflows
+- **Real-Time Data & Auth:** Live Firestore and Firebase Auth state listeners
+- **State Management:** In-memory Data Manager and local session caching
