@@ -60,3 +60,53 @@ To link your own Firebase instance:
 - Drag and drop the file directly into the root folder inside Xcode (ensure Copy items if needed is checked and it is target-assigned to the main app target).
 
 ## 📱 Screenshots
+### Welcome Screen
+
+<p align="center">
+  <!-- <img src="README_Images/WelcomeView.png" width="250"> -->
+</p>
+Displays the initial screen on app launch, where the user can sign in or enter the app without requiring a login.
+
+### Dashboard Screen
+
+<p align="center">
+  <!-- <img src="README_Images/WelcomeView.png" width="250"> -->
+</p>
+Main dashboard displaying monthly and annual spending overviews, a category breakdown chart with percentage shares, and upcoming subscription renewals.
+
+### Insights Screen
+
+<p align="center">
+  <!-- <img src="README_Images/WelcomeView.png" width="250"> -->
+</p>
+Monthly chart projection displaying total spending, upcoming charge dates, and the top 3 most expensive subscriptions.
+
+### Subscriptions Screen
+
+<p align="center">
+  <!-- <img src="README_Images/WelcomeView.png" width="250"> -->
+</p>
+Subscription list categorized by status (active, canceled, or free) with an upcoming expiration section and category filtering.
+
+### Settings Screen
+
+<p align="center">
+  <!-- <img src="README_Images/WelcomeView.png" width="250"> -->
+</p>
+Settings view displaying account details (username, email) with options to edit profile, log in, sign up, log out, or delete the account based on authentication status.
+
+### Add & Edit Subscription Screen
+
+<p align="center">
+  <!-- <img src="README_Images/WelcomeView.png" width="250"> -->
+  <!-- <img src="README_Images/WelcomeView.png" width="250"> -->
+  <!-- <img src="README_Images/WelcomeView.png" width="250"> -->
+</p>
+Add and edit subscription views to create or update subscription details including name, cost, category, billing cycle, and renewal date.
+
+### Search Subscription Screen
+
+<p align="center">
+  <!-- <img src="README_Images/WelcomeView.png" width="250"> -->
+</p>
+Search view allowing users to quickly find subscriptions by name or category, with support for saving recent search history.
