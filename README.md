@@ -63,7 +63,7 @@ To link your own Firebase instance:
 ### Welcome Screen
 
 <p align="center">
-  <!-- <img src="README_Images/WelcomeView.png" width="250"> -->
+  <img src="README_Images/WelcomeView.png" width="250">
 </p>
 Displays the initial screen on app launch, where the user can sign in or enter the app without requiring a login.
 
